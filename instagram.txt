@@ -9,6 +9,7 @@ in modo che le foto rendano giustizia alla bellezza della natura
 PROBLEMA: CARICARE UNA FOTO SU INSTAGRAM
 
 1- Apro la galleria delle foto del telefono
+
 2- Scorro gli album fotografici
 
     IF 
@@ -17,8 +18,25 @@ PROBLEMA: CARICARE UNA FOTO SU INSTAGRAM
     ELSE 
         - Continuo a scorrere gli album
 
-3- Apri il menù filtri
-4- Scorro i filtri
+3- Scorro le foto nell'album delle vacanze
+
+    IF 
+        se una foto mi piace
+        -seleziono la foto
+    ELSE
+        -continuo a scorrere le foto
+
+
+    IF 
+        l'album è quello delle vacanze
+        - seleziono l'album
+    ELSE 
+        - Continuo a scorrere gli album
+
+
+4- Apri il menù filtri
+
+5- Scorro i filtri
 
     IF 
         il filtro mi piace
@@ -26,8 +44,9 @@ PROBLEMA: CARICARE UNA FOTO SU INSTAGRAM
     ELSE
         - continuo a scorrere i filtri
 
-5- Apro il menù condividi
-6- Scorro le applicazioni disponibii
+6- Apro il menù condividi
+
+7- Scorro le applicazioni disponibii
 
     IF
         è Instagram
@@ -35,10 +54,10 @@ PROBLEMA: CARICARE UNA FOTO SU INSTAGRAM
     ELSE
         - Continuo a scorrere le applicazioni
 
-7- Scorro i tipi di pubblicazione
+8- Scorro i tipi di pubblicazione
 
     IF
-        come post
+        pubblico come post
         -Clicco su condividi
     ELSE
         -continuo a scorrere i tipi di pubblicazione
